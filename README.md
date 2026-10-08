@@ -6,15 +6,15 @@ Central index of my Home Assistant integrations, cards and tooling. Each project
 
 | Project | Description | Install |
 |---|---|---|
-| [aqi-in-hacs-integration](https://github.com/adityasanehi/aqi-in-hacs-integration) | Live air quality and weather from [AQI.in](https://aqi.in) stations or your own monitors | HACS |
-| [delta-solar-hacs-integration](https://github.com/adityasanehi/delta-solar-hacs-integration) | Delta solar inverter integration | HACS |
-| [hikvision-intercom-kh6320](https://github.com/adityasanehi/hikvision-intercom-kh6320) | Hikvision DS-KH6320-WTDE1 video intercom door unlock | HACS |
+| [aqi-in-hacs-integration](https://github.com/adityasanehi/aqi-in-hacs-integration) | Live air quality and weather from [AQI.in](https://aqi.in) stations or your own monitors | [![Add to HA](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=aqi-in-hacs-integration&category=integration) |
+| [delta-solar-hacs-integration](https://github.com/adityasanehi/delta-solar-hacs-integration) | Delta solar inverter integration | [![Add to HA](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=delta-solar-hacs-integration&category=integration) |
+| [hikvision-intercom-kh6320](https://github.com/adityasanehi/hikvision-intercom-kh6320) | Hikvision DS-KH6320-WTDE1 video intercom door unlock | [![Add to HA](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=hikvision-intercom-kh6320&category=integration) |
 
 ## Lovelace cards
 
 | Project | Description | Install |
 |---|---|---|
-| [water-tank-card](https://github.com/adityasanehi/water-tank-card) | Animated water tank for a level or percentage sensor | HACS |
+| [water-tank-card](https://github.com/adityasanehi/water-tank-card) | Animated water tank for a level or percentage sensor | [![Add to HA](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=water-tank-card&category=plugin) |
 
 ## Tooling & research
 
@@ -24,7 +24,7 @@ Central index of my Home Assistant integrations, cards and tooling. Each project
 
 ## Installing via HACS
 
-Add the repo URL under HACS → ⋮ → Custom repositories (type: Integration or Dashboard), then install.
+Click a button to open the repo in your HA instance (needs [My Home Assistant](https://my.home-assistant.io) set up), or add the repo URL under HACS → ⋮ → Custom repositories (type: Integration or Dashboard), then install.
 
 ## Adding a project
 
