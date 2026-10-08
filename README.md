@@ -1,4 +1,4 @@
-# HA Workshop
+# Aditya's Home Assistant Projects
 
 Central index of my Home Assistant integrations, cards and tooling. Each project lives in its own repo; this one only links to them.
 
