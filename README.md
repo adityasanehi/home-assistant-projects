@@ -6,15 +6,15 @@ Central index of my Home Assistant integrations, cards and tooling. Each project
 
 | Project | Description | Install |
 |---|---|---|
-| [aqi-in-hacs-integration](https://github.com/adityasanehi/aqi-in-hacs-integration) | Live air quality and weather from [AQI.in](https://aqi.in) stations or your own monitors | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=aqi-in-hacs-integration&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="200"></a> |
-| [delta-solar-hacs-integration](https://github.com/adityasanehi/delta-solar-hacs-integration) | Delta solar inverter integration | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=delta-solar-hacs-integration&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="200"></a> |
-| [hikvision-intercom-kh6320](https://github.com/adityasanehi/hikvision-intercom-kh6320) | Hikvision DS-KH6320-WTDE1 video intercom door unlock | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=hikvision-intercom-kh6320&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="200"></a> |
+| [aqi-in-hacs-integration](https://github.com/adityasanehi/aqi-in-hacs-integration) | Live air quality and weather from [AQI.in](https://aqi.in) stations or your own monitors | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=aqi-in-hacs-integration&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="300"></a> |
+| [delta-solar-hacs-integration](https://github.com/adityasanehi/delta-solar-hacs-integration) | Delta solar inverter integration | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=delta-solar-hacs-integration&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="300"></a> |
+| [hikvision-intercom-kh6320](https://github.com/adityasanehi/hikvision-intercom-kh6320) | Hikvision DS-KH6320-WTDE1 video intercom door unlock | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=hikvision-intercom-kh6320&category=integration"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="300"></a> |
 
 ## Lovelace cards
 
 | Project | Description | Install |
 |---|---|---|
-| [water-tank-card](https://github.com/adityasanehi/water-tank-card) | Animated water tank for a level or percentage sensor | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=water-tank-card&category=plugin"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="200"></a> |
+| [water-tank-card](https://github.com/adityasanehi/water-tank-card) | Animated water tank for a level or percentage sensor | <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=adityasanehi&repository=water-tank-card&category=plugin"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Add to HA" width="300"></a> |
 
 ## Tooling & research
 
